@@ -1,4 +1,4 @@
-# ColorObCompany
+# ColorObCompany(仮)
 会社への評価を色で表現するWebアプリケーション
 
 ユーザは企業を下記観点から評価する。
