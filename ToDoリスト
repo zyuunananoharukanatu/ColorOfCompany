@@ -23,6 +23,7 @@
 3. 試験用サーバの構築
 　　・CentOSなどを入れる？
   　・MySQL？
+    ・Chef使ってみたいです(参考：http://shindolog.hatenablog.com/entry/2014/07/20/220550)
 　2～3週間後？
  
 4. 基本設計
