@@ -1,8 +1,0 @@
-・命名規約
-　-http://qiita.com/genzouw/items/35022fa96c120e67c637
-
-・テーブル(物理名[論理名])
-  - user_master[ユーザマスタ]
-  - company_master[会社マスタ]
-  - ratings[評価]
-  - reports[報告]
