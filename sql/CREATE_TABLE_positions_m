@@ -1,0 +1,8 @@
+CREATE table positions_m (
+ position_id cher(3) NOT NULL,
+ position_name verchar(25) NOT NULL,
+ is_deleted char(1) NOT NULL,
+ created_at timestamp,
+ updated_at timestamp
+ );
+ 

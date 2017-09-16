@@ -1,0 +1,14 @@
+CREATE TABLE users_info (
+ user_id char(10) NOT NULL,
+ password char(10) NOT NULL,
+ user_name varcher(20) NOT NULL,
+ job_id char(3),
+ position_id char(1),
+ age cher(1) NOT NULL,
+ is_deleted char(1) NOT NULL,
+ created_at timestamp NOT NULL,
+ updated_at timestamp NOT NULL,
+ address varcher(320) NOT NULL,
+ version char(5)
+ );
+ 

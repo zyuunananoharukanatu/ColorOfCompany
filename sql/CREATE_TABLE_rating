@@ -1,0 +1,13 @@
+CREATE TABLE ratings (
+ rating_id nunber(8) NOT NULL,
+ company_id char(8) NOT NULL,
+ user_id cher(10) NOT NULL,
+ money number(1) NOT NULL,
+ skill number(1) NOT NULL,
+ work number(1) NOT NULL,
+ age cher(1) NOT NULL,
+ is_deleted cher(1) NOT NULL,
+ created_at timestamp NOT NULL,
+ updated_at timestamp NOT NULL
+ );
+ 

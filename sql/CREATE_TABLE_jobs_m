@@ -1,0 +1,8 @@
+CREATE table jobs_m (
+ job_id cher(3) NOT NULL,
+ job_name verchar(50) NOT NULL,
+ is_deleted char(1) NOT NULL,
+ created_at timestamp,
+ updated_at timestamp
+ );
+ 

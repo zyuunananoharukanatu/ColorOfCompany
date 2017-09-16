@@ -1,0 +1,12 @@
+CREATE table companies_info (
+ company_id cher(8) NOT NULL,
+ company_name verchar(200) NOT NULL,
+ user_id char(10) NOT NULL,
+ job_id char(3) NOT NULL,
+ is_deleted char(1) NOT NULL,
+ created_at timestamp,
+ updated_at timestamp,
+ url verchar(100)
+ );
+ 
+ 
